@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NR>=370 && NR<=395' \"C:/Users/Fotio/OneDrive/Desktop/Frontida Webapp V2/files/frontida-deploy1/index.html\")",
+      "Bash(awk 'NR>=3490 && NR<=3513' \"C:/Users/Fotio/OneDrive/Desktop/Frontida Webapp V2/files/frontida-deploy1/index.html\")",
+      "Bash(awk 'NR>=1005 && NR<=1170' \"C:/Users/Fotio/OneDrive/Desktop/Frontida Webapp V2/files/frontida-deploy1/index.html\")",
+      "Bash(awk 'NR>=2395 && NR<=2410' \"C:/Users/Fotio/OneDrive/Desktop/Frontida Webapp V2/files/frontida-deploy1/index.html\")",
+      "Bash(awk 'NR>=2615 && NR<=2640' \"C:/Users/Fotio/OneDrive/Desktop/Frontida Webapp V2/files/frontida-deploy1/index.html\")",
+      "Bash(awk 'NR>=2810 && NR<=2840' \"C:/Users/Fotio/OneDrive/Desktop/Frontida Webapp V2/files/frontida-deploy1/index.html\")"
+    ]
+  }
+}
